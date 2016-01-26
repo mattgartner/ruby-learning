@@ -37,6 +37,5 @@ end
 
 list = create_list
 5.times {list['items'].push(add_list_item()) }
-#list['items'].push(add_list_item())
 
 print_list(list)
